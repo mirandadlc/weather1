@@ -17,6 +17,10 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  padding: 20px;
+}
+
 .day-container {
   font-size: 50px;
 }
